@@ -1,1 +1,1 @@
-# 2022_GETIT_2022_2_React-
+# 2022_GETIT_2022_2_React
